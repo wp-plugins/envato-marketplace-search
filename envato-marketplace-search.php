@@ -3,7 +3,7 @@
  * Plugin Name: Envato Marketplace Search
  * Plugin URI: http://wordpress.org/extend/plugins/envato-marketplace-search/
  * Description: Retrieves items from Envato Marketplace's using the search API and displays the results as an unordered lists of linked 80px thumbnails.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Derek Herman
  * Author URI: http://valendesigns.com
  * License: GPLv2
