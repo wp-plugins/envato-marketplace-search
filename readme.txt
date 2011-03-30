@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=accounts
 Tags: envato, api, marketplace, search, themeforest, codecanyon
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Retrieves items from Envato Marketplace's using the search API and displays the results as an unordered lists of linked 80px thumbnails.
 
